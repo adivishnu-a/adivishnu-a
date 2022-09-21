@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adivishnu-a
-- 👀 I’m interested in AI and ML
+- 👀 I’m interested in Programming, AI and ML
 - 🌱 I’m currently learning Computer Science and Engineering at SRM University, AP
 
 <!---
