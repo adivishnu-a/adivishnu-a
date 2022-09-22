@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adivishnu-a
+- 👋 Hi, I’m Adi Vishnu Avula
 - 👀 I’m interested in Programming, AI and ML
 - 🌱 I’m currently learning Computer Science and Engineering at SRM University, AP
 
