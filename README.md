@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adi Vishnu Avula
-- 👀 I’m interested in Programming, AI and ML
-- 🌱 I’m currently learning Computer Science and Engineering at SRM University, AP
+- 👀 I’m interested in Software, AI and ML
+- 🌱 I’m currently pursuing Computer Science and Engineering at SRM University, AP
 - Connect with me on LinkedIn: https://www.linkedin.com/in/adi-vishnu-avula/
 
 <!---
