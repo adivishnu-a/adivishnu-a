@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adi Vishnu Avula</h1>
+<h1 align="center">Hi, I'm Adi Vishnu Avula 👋</h1>
 <h3 align="center">A passionate CS Undergrad student and developer from SRM University, AP</h3>
 
 - 🌱 I’m currently learning **Computer Science and Engineering with Specialization in AI & ML**
