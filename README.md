@@ -40,5 +40,7 @@
   
  
 <h2 align="center">My Profile Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adivishnu-a&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="adivishnu-a" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adivishnu-a&show_icons=true&theme=tokyonight&locale=en" alt="adivishnu-a" /></p>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adivishnu-a&show_icons=true&show_icons=true&theme=tokyonight&locale=en" align="center" /></div>  
+<p></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adivishnu-a&show_icons=true&theme=tokyonight&locale=en&layout=compact" align="center" /></div> 
