@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Adi Vishnu Avula 👋</h1>
-
 <p align="center">
-  <img src="https://github.com/adivishnu-a/adivishnu-a/assets/95145136/2db114a8-80ed-4d05-893f-86b35d9b10c2" alt="header" />
+  <img src="https://github.com/adivishnu-a/adivishnu-a/assets/95145136/48fb5080-fc97-4495-a12c-7c34b075e398" alt="Hello World, I'm Adi!" />
 </p>
 
-<h3 align="center">A passionate CS Undergrad student and developer from SRM University, AP 🚀</h3>
+<h3 align="center">I'm Adi, A passionate CS Undergrad student and developer from SRM University, AP 🚀</h3>
 
 - 🌱 I’m currently studying **Computer Science and Engineering with Specialization in AI & ML**
 
