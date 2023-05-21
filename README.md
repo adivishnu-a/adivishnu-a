@@ -16,7 +16,7 @@
 
 - 🍥 Talk to me about: Programming, Data Science, AI-ML, Anime
 
-<h2 align="center">Tools and Technologies</h2>
+<h2 align="center">My Skillset</h2>
 <div align="center">  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Atom" style="margin-bottom: 5px;" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Atom" style="margin-bottom: 5px;" /></a>
