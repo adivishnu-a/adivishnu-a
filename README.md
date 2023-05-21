@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/adivishnu-a/adivishnu-a/assets/95145136/e44cf99f-4afc-40d2-a8d6-98791aef8e98" alt="Hello World, I'm Adi!" />
+ <img src="https://github.com/adivishnu-a/adivishnu-a/assets/95145136/70915d45-06dd-4673-9341-910d75d11ab2" />
 </p>
 
 <h3 align="center">I'm Adi, A passionate CS Undergrad student and developer from SRM University, AP 🚀</h3>
