@@ -25,10 +25,6 @@
   <a href="https://github.com/adivishnu-a" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-bottom: 5px;" /></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Linux Shell Scripting" style="margin-bottom: 5px;" /></a>  
   <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Atom" style="margin-bottom: 5px;" /></a>
-  <a href="https://github.com/atom/atom" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" style="margin-bottom: 5px;" /></a> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ Idea" style="margin-bottom: 5px;" /></a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" style="margin-bottom: 5px;" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="PyCharm" style="margin-bottom: 5px;" /></a>  
 </div>  
 
 <h2 align="center">Connect With Me</h2> 
