@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adivishnu-a](https://github.com/adivishnu-a)
 
-- 📫 How to reach me **adivishnu311@gmail.com**
+- 📫 How to reach me **adivishnu_avula@srmap.edu.in**
 
 - 📝 Know about my experiences [https://www.linkedin.com/in/adi-vishnu-avula/](https://www.linkedin.com/in/adi-vishnu-avula/)
 
-- 📃 My Resume in GitHub [https://github.com/adivishnu-a/git-cv/blob/main/README.md](https://github.com/adivishnu-a/git-cv/blob/main/README.md)
+- 📃 My Resume in GitHub [https://github.com/adivishnu-a/git-cv](https://github.com/adivishnu-a/git-cv/blob/main/README.md)
 
 - 🍥 Talk to me about: Programming, Data Science, AI-ML, Anime
 
