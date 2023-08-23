@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm Adi, A passionate CS Undergrad student and developer from SRM University, AP 🚀</h3>
 
-- 🌱 I’m currently studying **Computer Science and Engineering with Specialization in AI & ML**
+- 🌱 I’m currently studying **Computer Science and Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adivishnu-a](https://github.com/adivishnu-a)
 
