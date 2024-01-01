@@ -24,7 +24,8 @@
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Atom" style="margin-bottom: 5px;" /></a>
   <a href="https://github.com/adivishnu-a" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-bottom: 5px;" /></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Linux Shell Scripting" style="margin-bottom: 5px;" /></a>  
-  <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Atom" style="margin-bottom: 5px;" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" style="margin-bottom: 5px;" /></a>
+ <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-bottom: 5px;" /></a>
 </div>  
 
 <h2 align="center">Connect With Me</h2> 
