@@ -57,4 +57,4 @@
 
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adivishnu-a&show_icons=true&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" align="center" /></div>  
 <p></p>
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adivishnu-a&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adivishnu-a&hide=jupyter%20notebook&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true" align="center" /></div> 
