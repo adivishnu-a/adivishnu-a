@@ -12,8 +12,6 @@
 
 - 📝 Know about my experiences [https://www.linkedin.com/in/adi-vishnu-avula/](https://www.linkedin.com/in/adi-vishnu-avula/)
 
-- 📃 My Resume in GitHub [https://github.com/adivishnu-a/git-cv](https://github.com/adivishnu-a/git-cv/blob/main/README.md)
-
 - 🍥 Talk to me about: Programming, Data Science, AI-ML, Anime
 
 <h2 align="center">My Skillset</h2>
