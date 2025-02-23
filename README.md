@@ -18,8 +18,8 @@
 
 - 🔭 Currently juggling my final year at **SRM University, AP** with a thrilling Product Development Internship at **Darwinbox**.
 - 🌱 Continuously leveling up my skills in modern web development and product design.
-- 👨‍💻 Explore all my projects on my [GitHub profile (github.com/adivishnu-a)](https://github.com/adivishnu-a).
-- 📫 Reach me at **adivishnu_avula@srmap.edu.in** or connect with me on [LinkedIn (linkedin.com/in/adi-vishnu-avula)](https://www.linkedin.com/in/adi-vishnu-avula/).
+- 👨‍💻 Explore all my projects on my [GitHub profile (adivishnu-a)](https://github.com/adivishnu-a).
+- 📫 Reach me at **adivishnu_avula@srmap.edu.in** or connect with me on [LinkedIn (adi-vishnu-avula)](https://www.linkedin.com/in/adi-vishnu-avula/).
 - 🍕 I love talking about coding, tech trends, Data Science, AI-ML, and of course – Anime!
 
 ---
