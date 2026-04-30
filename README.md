@@ -26,9 +26,13 @@
 
 ### Currently Building
 
-**[NexusPay](https://github.com/adivishnu-a)** — A UPI-like payment system with layered architecture. Covers transaction routing, wallet management, and settlement flows. Built in Java and Spring Boot.
+**[NexusPay](https://github.com/adivishnu-a/nexuspay)** — A UPI-like payment system with layered architecture. Covers transaction routing, wallet management, and settlement flows. Built in Java and Spring Boot.
 
-**[MF Compass](https://github.com/adivishnu-a)** — A mutual fund discovery platform for Indian retail investors. Ranks direct-growth plans by outperformance against their category average, not raw returns. Built on Next.js 15, Neon Postgres, and a fully automated GitHub Actions data pipeline.
+<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adivishnu-a&repo=nexuspay&theme=nord&hide_border=true)](https://github.com/adivishnu-a/nexuspay) -->
+
+**[MF Compass](https://github.com/adivishnu-a/mf-compass)** — A mutual fund discovery platform for Indian retail investors. Ranks direct-growth plans by outperformance against their category average, not raw returns. Built on Next.js 15, Neon Postgres, and a fully automated GitHub Actions data pipeline.
+
+<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adivishnu-a&repo=mf-compass&theme=nord&hide_border=true)](https://github.com/adivishnu-a/mf-compass) -->
 
 ---
 
