@@ -64,11 +64,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adivishnu-a&hide_border=true&show_icons=true&theme=nord&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=adivishnu-a&hide_border=true&show_icons=true&theme=nord&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adivishnu-a&theme=nord&hide_border=true" alt="Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adivishnu-a&hide=jupyter%20notebook&show_icons=true&theme=nord&locale=en&layout=compact&count_private=true&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=adivishnu-a&hide=jupyter%20notebook&show_icons=true&theme=nord&locale=en&layout=compact&count_private=true&hide_border=true" alt="Top Languages" />
 </div>
